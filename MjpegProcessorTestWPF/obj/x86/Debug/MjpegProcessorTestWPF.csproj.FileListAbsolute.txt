@@ -1,0 +1,13 @@
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\bin\Debug\MjpegProcessorTestWPF.exe.config
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\bin\Debug\MjpegProcessorTestWPF.exe
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\bin\Debug\MjpegProcessorTestWPF.pdb
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\App.g.cs
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF_MarkupCompile.cache
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF.g.resources
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF.Properties.Resources.resources
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF.csproj.GenerateResource.Cache
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF.exe
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF.pdb
+C:\Users\Spriggsy\Desktop\MJPEG\MjpegProcessorTestWPF\obj\x86\Debug\MjpegProcessorTestWPF.csprojResolveAssemblyReference.cache
